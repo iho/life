@@ -1,4 +1,4 @@
-default: lint test run
+default: test run
 
 lint:
 	golangci-lint run
